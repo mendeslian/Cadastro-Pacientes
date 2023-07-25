@@ -1,4 +1,3 @@
-import os
 import openpyxl
 
 continuar_prog = True
